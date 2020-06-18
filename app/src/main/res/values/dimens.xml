@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="match_parent">0dp</dimen>
+
+    <dimen name="list_item_padding">12dp</dimen>
+    <dimen name="list_padding">8dp</dimen>
+    <dimen name="card_padding">8dp</dimen>
+    <dimen name="card_elevation">6dp</dimen>
+
+    <dimen name="title_size">24sp</dimen>
+    <dimen name="body_size">16sp</dimen>
+    <dimen name="error_text_size">16sp</dimen>
+    <dimen name="splash_padding">50dp</dimen>
+
+</resources>
